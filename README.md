@@ -1,8 +1,10 @@
-Common Guide
+Local Organising Guide
 ============
 
-The Common Guide seeks to provide a common base for fast evolving human and planet-centric organisations.
+A participatory and evolving guide for people to kickstart solarpunk aligned community organisations, and share back their learnings.
 
+This is forked from the Common Guide, in order to expand the scope from organisational governance to encompass other aspects of group organising and better facilitate decentralised collaboration on the Guide.
+ 
 This README is here to mainly support setting up a guide, contributing to a guide and maintaning the project.
 For more information what this project is all about see /docs/index.md for a proper Welcome.
 
