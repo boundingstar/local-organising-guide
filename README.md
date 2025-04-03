@@ -8,7 +8,7 @@ This is forked from the Common Guide, in order to expand the scope from organisa
 This README is here to mainly support setting up a guide, contributing to a guide and maintaning the project.
 For more information what this project is all about see /docs/index.md for a proper Welcome.
 
-
+Discussions on architecture and usage of the tool are conducted on the common.guide Lumio forum, message me to request access.
 # Setting up your own organisation
 
 1. Fork this project repository
