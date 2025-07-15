@@ -1,7 +1,8 @@
-## Want to see change in the world but not sure how to make it happen? This is the place to start
+### Want to see change in the world but not sure how to make it happen? This is the place to start
 - [List of other versions of this guide] 
 - [Link to: what is this guide and who made it?]
-Steps: 
+
+# Steps To Make Your Organisation or Action Happen: 
 1. (steps from lltwid episode written somewhere) 
 2. searching for existing groups
 3. defining the problem you want to address
@@ -11,7 +12,7 @@ Steps:
 7. branding and digital outreach 
 
 
-Next steps: 
+### Next steps: 
 - [establishing group policies] 
 - [consensus based decision making]
 - [conflict resolution] 
