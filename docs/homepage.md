@@ -1,6 +1,6 @@
-Want to see change in the world but not sure how to make it happen? This is the place to start
-[List of other versions of this guide] 
-[Link to: what is this guide and who made it?]
+## Want to see change in the world but not sure how to make it happen? This is the place to start
+- [List of other versions of this guide] 
+- [Link to: what is this guide and who made it?]
 Steps: 
 1. (steps from lltwid episode written somewhere) 
 2. searching for existing groups
@@ -12,9 +12,9 @@ Steps:
 
 
 Next steps: 
-[establishing group policies] 
-[consensus based decision making]
-[conflict resolution] 
-[planning a public event] 
-[planning direct action] 
-[]
+- [establishing group policies] 
+- [consensus based decision making]
+- [conflict resolution] 
+- [planning a public event] 
+- [planning direct action] 
+- []
