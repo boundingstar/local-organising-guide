@@ -19,5 +19,5 @@ How do you set your group up with a solid foundation to function effectively and
 3. [conflict resolution] 
 4. [planning a public event] 
 5. [planning direct action] 
-6. []
+6. [Connecting with other aligned groups]
 For more specialised topics view the full list of guide pages [here], and to contribute your learnings back into the guide for others to use or make your own tailored version read [here].
